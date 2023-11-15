@@ -1,5 +1,7 @@
 # php-mvc-forum
 Đây là dự án diễn đàn làm bằng ngôn ngữ PHP, mô hình MVC. Không sử dụng framework.
+Không chỉ là diễn đàn tâm lý học, đây là form diễn đàn chung có thể phục vụ cho nhiều mục đích sử dụng khác nhau.
+
 Trang chủ
 ![image](https://github.com/hungblqn/php-mvc-forum/assets/77875957/c0c4974e-caaa-4ba1-9f5b-9e29e484bbb6)
 Đăng ký
